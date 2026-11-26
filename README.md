@@ -1,2 +1,2 @@
 # freefire-
-proxy freefire
+pc gamerfreefire
