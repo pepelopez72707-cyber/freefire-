@@ -1,2 +1,2 @@
 # freefire-
-modificación con root pc gamerfreefire
+modificación con shizuku pc gamerfreefire
