@@ -1,2 +1,2 @@
 # freefire-
-pc gamerfreefire
+modificación con root pc gamerfreefire
