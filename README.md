@@ -1,0 +1,2 @@
+# freefire-
+proxy freefire
