@@ -1,2 +1,2 @@
 # freefire-
-modificación con shizuku pc gamerfreefire
+modificación con shizuku🖥⌨️🖱freefire
